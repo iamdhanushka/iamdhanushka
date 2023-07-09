@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhanushka Lakshan Samarakoon</h1>
 <h3 align="center">Software Engineer | Consultant | Undergraduate CS Student</h3> <br>
-<img align="right" alt="Coding" width="300" src="https://github.com/iamdhanushka/iamdhanushka/blob/main/image3.png">
+<img align="right" alt="Coding" width="300" src="https://github.com/iamdhanushka/iamdhanushka/blob/main/image.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdhanushka&label=Profile%20views&color=0e75b6&style=flat" alt="iamdhanushka" /> </p>
 
