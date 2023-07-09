@@ -4,19 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdhanushka&label=Profile%20views&color=0e75b6&style=flat" alt="iamdhanushka" /> </p>
 
-- 👨🏻‍💻 Software Engineer / Consultant at [BWServices Cloud](https://www.bwservices.cloud/)
+- 👨🏻‍💻 Software Engineer / Consultant at <a href="https://www.bwservices.cloud/" target="_blank">BWServices Cloud.</a>
 
-- 🤝 Software Engineer Intern at [Adlux Software (Pvt) Ltd](https://www.adlux.asia/)
+- 🤝 Software Engineer Intern at <a href="https://www.adlux.asia/" target="_blank">Adlux Software (Pvt) Ltd.</a>
 
 - 📫 Reach me via **dhanu.dlsamarakoon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iamdhanushka_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamdhanushka_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamdhanushka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamdhanushka" height="30" width="40" /></a>
-<a href="https://fb.com/iamdhanushka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamdhanushka" height="30" width="40" /></a>
-<a href="https://instagram.com/iamdhanushka_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamdhanushka_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@iamdhanushka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@iamdhanushka" height="30" width="40" /></a>
+<a href="https://twitter.com/iamdhanushka_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamdhanushka_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iamdhanushka" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamdhanushka" height="30" width="40" /></a>
+<a href="https://fb.com/iamdhanushka" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamdhanushka" height="30" width="40" /></a>
+<a href="https://instagram.com/iamdhanushka_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamdhanushka_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@iamdhanushka" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@iamdhanushka" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
