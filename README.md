@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dhanushka Lakshan Samarakoon</h1>
 <h3 align="center">Software Engineer | Consultant | Undergraduate CS Student</h3>
+<img align="right" alt="Coding" width="400" src="https://www.pexels.com/photo/person-using-silver-macbook-pro-1181467">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdhanushka&label=Profile%20views&color=0e75b6&style=flat" alt="iamdhanushka" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamdhanushka" alt="iamdhanushka" /></a> </p>
+- 👨🏻‍💻 Software Engineer / Consultant at [BWServices Cloud](https://www.bwservices.cloud/)
 
-<p align="left"> <a href="https://twitter.com/iamdhanushka_" target="blank"><img src="https://img.shields.io/twitter/follow/iamdhanushka_?logo=twitter&style=for-the-badge" alt="iamdhanushka_" /></a> </p>
+- 🤝 Software Engineer Intern at [Adlux Software (Pvt) Ltd](https://www.adlux.asia/)
 
-- 🔭 I’m currently working on [Adlux Software (Pvt) Ltd](https://www.adlux.asia/)
-
-- 📫 How to reach me **dhanu.dlsamarakoon@gmail.com**
+- 📫 Reach me by **dhanu.dlsamarakoon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,7 +16,7 @@
 <a href="https://linkedin.com/in/iamdhanushka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamdhanushka" height="30" width="40" /></a>
 <a href="https://fb.com/iamdhanushka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamdhanushka" height="30" width="40" /></a>
 <a href="https://instagram.com/iamdhanushka_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamdhanushka_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@iamdhanushka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@iamdhanushka" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@iamdhanushka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@iamdhanushka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamdhanushka&show_icons=true&locale=en&layout=compact" alt="iamdhanushka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamdhanushka&show_icons=true&locale=en" alt="iamdhanushka" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamdhanushka&" alt="iamdhanushka" /></p>
