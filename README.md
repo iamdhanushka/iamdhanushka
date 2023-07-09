@@ -8,6 +8,8 @@
 
 - 🤝 Software Engineer Intern at <a href="https://www.adlux.asia/" target="_blank">Adlux Software (Pvt) Ltd.</a>
 
+- 🌐 Connect with me on <a href="https://linktr.ee/iamdhanushka" target="_blank">Linktree.</a>
+
 - 📫 Reach me via **dhanu.dlsamarakoon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
